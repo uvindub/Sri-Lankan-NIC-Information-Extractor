@@ -1,0 +1,11 @@
+# Data
+path: /content/drive/My Drive/nic_project/datasets/id_gen_bod_det
+train: images/train  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path')
+
+
+# Classes
+names:
+  0: id_number
+  1: gender
+  2: bod
